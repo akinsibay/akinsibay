@@ -1,6 +1,6 @@
 ### Hi there 👋, Welcome to my github.
-#### My name is Akın
-I made this project just for fun this project allows you to create nice and simple GitHub readme files that you can copy/paste as use in your profile.
+#### This is Akın's page.
+I am working as a Software Developer & Research and Development Specialist
 
 Skills: REACT / JS / HTML / CSS / C# / SQL
 
