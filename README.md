@@ -12,7 +12,7 @@ Skills:
 <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></p>
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on node-based programming. 
 - 🌱 I’m currently learning Machine Vision & Image Processing 
 - 📫 How to reach me: sibayakin@gmail.com 
 
