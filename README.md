@@ -7,7 +7,7 @@
 </p>
 <h2 align="center">💻 Full Stack Software Engineer</h3>
 
-## 🛠 Languages and Tools:
+### 🛠 Languages and Tools:
 
 #### 🎨 Frontend
 <p align="left">
