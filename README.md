@@ -1,6 +1,5 @@
 <h1 align="center">🚀 Akın Şibay</h1>
 <p align="center">
-    <a href="https://github.com/akinsibay" target="_blank"><img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/akinsibay" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
     <a href="https://twitter.com/akinsibay" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
     <a href="mailto:sibayakin@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
@@ -11,11 +10,10 @@
 
 #### 🎨 Frontend
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=react" alt="react"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://skillicons.dev/icons?i=js" alt="javascript"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript"/> </a>
-  <a href="https://www.electronjs.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=electron" alt="electron"/> </a>
-  <a href="https://www.styled-components.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=styledcomponents" alt="styledcomponents"/> </a>
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=react" alt="react"/> </a>
+  <a href="https://angular.dev/" target="_blank"> <img src="https://skillicons.dev/icons?i=angular" alt="angular"/> </a>
 </p>
 
 #### 🖥️ Backend
@@ -41,7 +39,8 @@
 <p align="left">
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=git" alt="git"/> </a>
-<a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="48" height="48"/> </a>
+<a href="https://grafana.com" target="_blank"> <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="48" height="48"/> </a>
+<a href="https://www.jenkins.io/" target="_blank"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="48" height="48"/> </a>
 </p>
 
 ---
