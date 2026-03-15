@@ -1,57 +1,67 @@
-<h1 align="center">🚀 Akın Şibay</h1>
+<h1 align="center">Akın Şibay</h1>
+
+<h3 align="center">Full Stack Software Engineer 👨🏻‍💻</h3>
+
 <p align="center">
-    <a href="https://www.linkedin.com/in/akinsibay" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-    <a href="https://twitter.com/akinsibay" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-    <a href="mailto:sibayakin@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-</p>
-<h2 align="center">💻 Full Stack Software Engineer</h3>
-
-### 🛠 Languages and Tools:
-
-#### 🎨 Frontend
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://skillicons.dev/icons?i=js" alt="javascript"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=react" alt="react"/> </a>
-  <a href="https://angular.dev/" target="_blank"> <img src="https://skillicons.dev/icons?i=angular" alt="angular"/> </a>
+    <a href="https://www.linkedin.com/in/akinsibay" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:sibayakin@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
-#### 🖥️ Backend
-<p align="left">
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet"/> </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp"/> </a>
-  <a href="https://www.nodejs.org" target="_blank"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs"/> </a>
-  <a href="https://expressjs.com" target="_blank"> <img src="https://skillicons.dev/icons?i=express" alt="express"/> </a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50"/></a>
-  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="48" height="48"/> </a>
-  <a href="https://www.redis.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="48" height="48"/> </a>
-</p>
+## 🛠 Tech Stack
+<table>
+<tr>
+<td width="50%" valign="top">
 
-#### 🛢️ Database
-<p align="left" width="10">
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50"/></a>
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb"/> </a>
-</p>
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-1A1B27?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-1A1B27?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-1A1B27?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/Angular-1A1B27?style=for-the-badge&logo=angular&logoColor=DD0031)
+![HTML5](https://img.shields.io/badge/HTML5-1A1B27?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1A1B27?style=for-the-badge&logo=css&logoColor=264DE4)
 
-#### ⚙️ DevOps & Tools
-<p align="left">
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=git" alt="git"/> </a>
-<a href="https://grafana.com" target="_blank"> <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="48" height="48"/> </a>
-<a href="https://www.jenkins.io/" target="_blank"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="48" height="48"/> </a>
-</p>
+</td>
+<td width="50%" valign="top">
 
----
-### 📊 GitHub Stats:
+### Backend
+![.NET](https://img.shields.io/badge/.NET-1A1B27?style=for-the-badge&logo=dotnet&logoColor=512BD4)
+![C%23](https://img.shields.io/badge/C%23-1A1B27?style=for-the-badge&logo=csharp)
+![Node.js](https://img.shields.io/badge/Node.js-1A1B27?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-1A1B27?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1A1B27?style=for-the-badge&logo=python)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-1A1B27?style=for-the-badge&logo=rabbitmq)
+![Redis](https://img.shields.io/badge/Redis-1A1B27?style=for-the-badge&logo=redis)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Database
+![SQL Server](https://img.shields.io/badge/SQL%20Server-1A1B27?style=for-the-badge&logo=microsoftsqlserver)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1B27?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-1A1B27?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-1A1B27?style=for-the-badge&logo=mongodb)
+
+</td>
+<td width="50%" valign="top">
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-1A1B27?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-1A1B27?style=for-the-badge&logo=git)
+![Grafana](https://img.shields.io/badge/Grafana-1A1B27?style=for-the-badge&logo=grafana)
+![Jenkins](https://img.shields.io/badge/Jenkins-1A1B27?style=for-the-badge&logo=jenkins)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 📊 GitHub Stats
+
 <div align="center">
-    <img alt="Akın Şibay's Github Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=akinsibay&show_icons=true&theme=dracula&count_private=true&hide_border=true">
-    <img alt="Top Languages" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akinsibay&theme=dracula&hide_border=true&layout=compact">
-</div>
-
-
-
-
-
-
+  <img alt="Akın Şibay's Github Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=akinsibay&show_icons=true&theme=dracula&count_private=true&hide_border=true">
+  <img alt="Top Languages" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akinsibay&theme=dracula&hide_border=true&layout=compact">
+</div
